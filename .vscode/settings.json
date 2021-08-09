@@ -1,0 +1,5 @@
+{
+    "editor.fontSize": 18,
+    "docker.commands.run": "docker run -d ${exposedPorts} ${tag}",
+    "workbench.sideBar.location": "right"
+}

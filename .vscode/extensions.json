@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ms-azuretools.vscode-docker",
+        "humao.rest-client",
+        "ms-kubernetes-tools.vscode-kubernetes-tools"
+    ]
+}
