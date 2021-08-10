@@ -1,0 +1,6 @@
+version: "3"
+services:
+  calendar-api:
+    image: melbell/calendar-api:aug-2021
+    ports:
+      - 1338:80
